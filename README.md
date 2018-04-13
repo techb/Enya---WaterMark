@@ -7,7 +7,7 @@
 
 ### Install ###
 
-* There is a binary provided for Mac in /dist/
+* There is a \*binary provided for Mac in /dist/
 * If using a terminal and source python dependencies listed below
 * PIL <- Original is deprecated USE Pillow instead (https://pillow.readthedocs.io/en/5.1.x/)
 * On mac install python3
