@@ -3,7 +3,7 @@
 * Add watermark to folder of images, batch processing is recursive
 * 1.0
 * Python 3.6.5
-* GUI built with Page (http://page.sourceforge.net/) on the Tk framework
+* GUI built with Page (http://page.sourceforge.net/) on the Tcl/Tk framework
 
 ### Install ###
 
